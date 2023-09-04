@@ -1,4 +1,18 @@
-# 🥳 Wallet setup
+---
+layout:
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
+# 7⃣ Wallet setup
 
 For the drainer to work, you will need a cryptocurrency wallet.&#x20;
 

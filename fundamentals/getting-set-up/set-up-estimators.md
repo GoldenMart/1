@@ -1,3 +1,17 @@
+---
+layout:
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # 2⃣ Set up estimators
 
 Estimators are needed in order to count the number of assets (native coins, tokens and nft) in the victim's wallet

@@ -1,4 +1,18 @@
-# 😍 Buying technical domain
+---
+layout:
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
+# 4⃣ Buying technical domain
 
 Before buying domains, we need to register an account on the cloudflare platform.
 

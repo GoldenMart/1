@@ -1,4 +1,18 @@
-# 🤩 Buying hosting
+---
+layout:
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
+# 5⃣ Buying hosting
 
 Hosting is needed in order to install your landing pages on it and attach domains to it
 

@@ -1,4 +1,18 @@
-# 😎 Drainer installation
+---
+layout:
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
+# 8⃣ Drainer installation
 
 Contents of the "Drainer" archive\
 As soon as you open the archive, you will see two folders in front of you:\

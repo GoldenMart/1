@@ -1,4 +1,18 @@
-# 😍 Buying landing page domain
+---
+layout:
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
+# 6⃣ Buying landing page domain
 
 **Landing page domain** - it will be used for your project, its name and zone are selected for your project. This domain will be visible to all visitors to your site.
 

@@ -1,4 +1,18 @@
-# 😎 Landing page installation
+---
+layout:
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
+# 9⃣ Landing page installation
 
 [In this section](buying-landing-page-domain.md) we bought [**Landing page domain**](buying-landing-page-domain.md), now we need to install the landing page on the hosting.
 

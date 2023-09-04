@@ -1,3 +1,17 @@
+---
+layout:
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # 3⃣ Buying server
 
 The drainer script must be installed on a clean server running the Ubuntu 20.04 operating system without pre-installed software (Apache, Cpanel, etc.)
