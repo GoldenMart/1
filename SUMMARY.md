@@ -25,6 +25,7 @@
   * [7⃣ Wallet setup](fundamentals/getting-set-up/wallet-setup.md)
   * [8⃣ Drainer installation](fundamentals/getting-set-up/drainer-installation.md)
   * [9⃣ Landing page installation](fundamentals/getting-set-up/landing-page-installation.md)
+  * [🔟 Final part](fundamentals/getting-set-up/final-part.md)
 
 ## 💁 Support
 
