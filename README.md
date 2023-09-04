@@ -14,10 +14,6 @@ Automatic withdrawal of approved assets is supported: after the user confirms, s
 
 The script supports a huge number of wallets, over 300 to be exact. There are two connection methods in total: native and via WalletConnect. Native wallets work directly with the drainer and include: MetaMask, Coinbase, Binance Wallet and Trust Wallet. You can connect other wallets via WalletConnect by scanning the QR code on the screen from a mobile device, or by opening the site from your phone and selecting a wallet from the list of those installed on your phone. Most mobile wallets support WalletConnect. Works with both versions of WalletConnect.
 
-###
-
-###
-
 ## Quick links
 
 {% content-ref url="overview/what-golden-drainer-do.md" %}
@@ -28,15 +24,9 @@ The script supports a huge number of wallets, over 300 to be exact. There are tw
 [our-features.md](overview/our-features.md)
 {% endcontent-ref %}
 
-## hhjkhjk
-
-<details>
-
-<summary>ggfhgdgdfg</summary>
-
-dfgdfgdfgdfg
-
-</details>
+{% content-ref url="overview/advantages.md" %}
+[advantages.md](overview/advantages.md)
+{% endcontent-ref %}
 
 ## Get Started
 
@@ -44,12 +34,4 @@ We've put together some helpful guides for you to get setup with our product qui
 
 {% content-ref url="fundamentals/getting-set-up/" %}
 [getting-set-up](fundamentals/getting-set-up/)
-{% endcontent-ref %}
-
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
-{% endcontent-ref %}
-
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
 {% endcontent-ref %}
