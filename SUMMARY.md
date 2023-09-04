@@ -1,6 +1,6 @@
 # Table of contents
 
-* [👋 Golden Drainer](README.md)
+* [🔥 Golden Drainer](README.md)
 
 ## Overview
 
