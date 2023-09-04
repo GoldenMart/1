@@ -1,8 +1,22 @@
+---
+layout:
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # 🛠 Getting set up
 
 _**Terms:**_
 
-**A server with a drainer** - is software that performs the function of imperceptibly writing off assets from the victim's wallet. The Drainer is installed on a separate server.
+**Server with a drainer** - is software that performs the function of imperceptibly writing off assets from the victim's wallet. The Drainer is installed on a separate server.
 
 **Landing page** - is a web hosting site. Landing requires hosting and a domain.
 
