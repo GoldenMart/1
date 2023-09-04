@@ -1,6 +1,6 @@
 # 😎 Landing page installation
 
-[In this section](landing-page-installation.md) we bought [**Landing page domain**](buying-landing-page-domain.md), now we need to install the landing page on the hosting.
+[In this section](buying-landing-page-domain.md) we bought [**Landing page domain**](buying-landing-page-domain.md), now we need to install the landing page on the hosting.
 
 You need to host site files in cPanel:
 
