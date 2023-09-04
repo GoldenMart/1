@@ -29,3 +29,4 @@
 ## 💁 Support
 
 * [🤓 Faq](support/faq.md)
+* [📬 Contacts](support/contacts.md)
