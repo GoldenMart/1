@@ -24,7 +24,7 @@
   * [😍 Buying landing page domain](fundamentals/getting-set-up/buying-landing-page-domain.md)
   * [🥳 Wallet setup](fundamentals/getting-set-up/wallet-setup.md)
   * [😎 Drainer installation](fundamentals/getting-set-up/drainer-installation.md)
-  * [😎 Loading landing pages](fundamentals/getting-set-up/loading-landing-pages.md)
+  * [😎 Landing page installation](fundamentals/getting-set-up/landing-page-installation.md)
 
 ## 💁 Support
 
