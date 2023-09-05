@@ -29,11 +29,8 @@ The minimum settings that we need to specify in this file for the script to work
 * variable "**MS\_Use\_Ankr**" set to "true"
 * variable "**MS\_Ankr\_Token**" set token values from the section "[Set up estimators](set-up-estimators.md)"
 
-\
 **Save the file and close it.**\
 _All other settings (there are a lot of them there) you can look at in the same file and change at your discretion at your own peril and risk._
-
-
 
 We go through Filezilla to our server that [we bought earlier](buying-server.md).
 

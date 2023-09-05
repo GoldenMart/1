@@ -22,7 +22,7 @@ Register on this site, top up your balance and buy your second domain
 
 <figure><img src="../../.gitbook/assets/image (29).png" alt=""><figcaption></figcaption></figure>
 
-Now I have registered a **Landing page domain**, Yyour victims will come to this domain and see the landing page installed on it. You need to set it up correctly. To do this, copy the domain name and go to the site [https://dash.cloudflare.com/](https://dash.cloudflare.com/)
+Now I have registered a **Landing page domain**, your victims will come to this domain and see the landing page installed on it. You need to set it up correctly. To do this, copy the domain name and go to the site [https://dash.cloudflare.com/](https://dash.cloudflare.com/)
 
 Click on the "Add a site" button
 
@@ -67,4 +67,4 @@ We create a new record. In the "Type" field, select "A" In the field "Name" writ
 
 <figure><img src="../../.gitbook/assets/image (39).png" alt=""><figcaption></figcaption></figure>
 
-Please note that changing server names can take up to 24 hours. Usually changes occur much faster, up to 1-2 hours. Now if we navigate to our technical domain address "https://mylanding1.com/" we should see our landing page, that you need install on hosting.
+Please note that changing server names can take up to 24 hours. Usually changes occur much faster, up to 1-2 hours. Now if we navigate to our **Landing page domain** address "https://mylanding1.com/" we should see our landing page, that you need install on hosting.

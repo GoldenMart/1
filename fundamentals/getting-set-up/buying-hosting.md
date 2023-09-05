@@ -16,7 +16,9 @@ layout:
 
 Hosting is needed in order to install your landing pages on it and attach domains to it
 
-For these purposes I use [https://zomro.com](https://zomro.com) You need to register an account on this platform and fund your account.
+For these purposes I use [https://zomro.com](https://zomro.com)&#x20;
+
+You need to register an account on this platform and fund your account.
 
 After registration and replenishment of the balance, go to the page [https://cp.zomro.com/services/vhost/vhost\_order](https://cp.zomro.com/services/vhost/vhost\_order) and click "order"
 
