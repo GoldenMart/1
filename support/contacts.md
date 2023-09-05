@@ -18,6 +18,6 @@ layout:
 
 #### Our channel in Telegram: [Golden Drainer](https://t.me/golden\_drainer)
 
-#### You can buy the script in Telegram, write: [@Allvie\_mogamaev](https://t.me/Allvie\_mogamaev)
+#### You can buy the script in Telegram, write: [@GD\_supp0rt](https://t.me/GD\_supp0rt)
 
 #### Our site: [goldendrainer.top](https://goldendrainer.top)
