@@ -35,3 +35,10 @@ After registration and replenishment of the balance, go to the page [https://bil
 After purchasing the server, you need to save the server IP address, username and password. This information is needed for further configuration.
 
 You need to save this data. This ip address will run the drainer script in the future
+
+**Also, you can buy VPS on other sites.**\
+**We recommend:** \
+https://www.ovhcloud.com/en-gb/vps/ \
+https://hostinger.com \
+https://timeweb.cloud/\
+**These providers are well established**
