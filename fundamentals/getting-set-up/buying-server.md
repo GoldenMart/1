@@ -16,26 +16,22 @@ layout:
 
 The drainer script must be installed on a clean server running the Ubuntu 20.04 operating system without pre-installed software (Apache, Cpanel, etc.)
 
-For these purposes I use [https://zomro.com](https://zomro.com) You need to register an account on this platform and fund your account
+For these purposes I use [https://ultahost.com](https://ultahost.com/vps-hosting) You need to register an account on this platform and fund your account
 
-After registration and replenishment of the balance, go to the page https://cp.zomro.com/services/vps/vps\_order
+After registration and replenishment of the balance, go to the page [https://bill.ultahost.com/store/linux-vps-hosting](https://bill.ultahost.com/store/linux-vps-hosting)
 
-* Choose "**ADVANCED SSD**"
+* Choose "**VPS Business**"
 
-<figure><img src="../../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (41).png" alt=""><figcaption></figcaption></figure>
 
 * The correct settings look like this. Then buy a server
 
-<figure><img src="../../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (42).png" alt=""><figcaption></figcaption></figure>
 
-*   After that, on the page [https://cp.zomro.com/services/vps](https://cp.zomro.com/services/vps) you will have your purchased server.
+<figure><img src="../../.gitbook/assets/image (43).png" alt=""><figcaption></figcaption></figure>
 
-    Click on the three dots and select instruction
+<figure><img src="../../.gitbook/assets/image (44).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
-
-* A new window will appear and then
-
-![](<../../.gitbook/assets/image (18).png>)
+After purchasing the server, you need to save the server IP address, username and password. This information is needed for further configuration.
 
 You need to save this data. This ip address will run the drainer script in the future
