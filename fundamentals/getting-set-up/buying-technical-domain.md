@@ -49,15 +49,15 @@ In the window that appears, we need to copy the values of **Nameserver 1** and *
 Go to the site [https://www.namesilo.com/account\_domains.php](https://www.namesilo.com/account\_domains.php) \
 Select the **Technical domain** and from the top menu select "Change Nameservers"
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 In the window that appears, insert the new Nameserver 1 and Nameserver 2, which we received on the Cloudflare service and click "submit"
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 After the changes are saved, go to the website [https://dash.cloudflare.com/](https://dash.cloudflare.com/) To the section "SSL/TLS - Overview". Change the parameter to "**Flexible**"
 
-<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 Then go to the "SSL/TLS - Edge Certificates" section. The "Always Use HTTPS" feature must be enabled.
 
