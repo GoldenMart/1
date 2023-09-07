@@ -53,6 +53,7 @@ sudo npm i pm2 -g
 cd server
 sudo npm i
 pm2 start server.js --update-env
+pm2 save
 ```
 
 If you want to change something in the future, just open FileZilla, make changes and save the file - that's it.
