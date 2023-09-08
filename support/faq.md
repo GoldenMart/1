@@ -97,3 +97,11 @@ Examples of write-offs using such 1 signature. NFTs from different collections -
 ![](<../.gitbook/assets/image (3).png>)
 
 </details>
+
+<details>
+
+<summary>Why do I specify the wallet's private key in the settings?</summary>
+
+This is necessary so that the wallet directly from the blockchain takes other people’s assets from approved smart contracts. Without a private key, the drainer cannot operate.
+
+</details>
