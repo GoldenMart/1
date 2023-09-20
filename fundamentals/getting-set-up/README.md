@@ -30,3 +30,7 @@ Connecting a landing to a dreader means setting up a landing bundle with a "Serv
 The Golden Drainer team congratulates you on your purchase of our wonderful product! Without wasting time, let's start installing.
 
 **If you are a beginner, do everything step by step**
+
+**Here is our installation video guide**
+
+{% embed url="https://www.youtube.com/watch?feature=youtu.be&v=fjt39Z4vJTE" %}
