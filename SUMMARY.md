@@ -26,6 +26,7 @@
   * [8⃣ Drainer installation](fundamentals/getting-set-up/drainer-installation.md)
   * [9⃣ Landing page installation](fundamentals/getting-set-up/landing-page-installation.md)
   * [🔟 Final part](fundamentals/getting-set-up/final-part.md)
+  * [⭐ Advanced settings](fundamentals/getting-set-up/advanced-settings.md)
 
 ## 💁 Support
 
