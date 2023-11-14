@@ -18,6 +18,7 @@ layout:
 
 * The script is absolutely clean and does not cause a red box on your site
 * Unlike other scripts, a huge number of wallets are supported
+* Suitable for beginners. Training videos. Best support. Accessible to everyone
 * High-quality technical support and adequate attitude towards customers
 * Free installation of the script on your website and drainer after purchase
 * A detailed user manual for the script you purchased
