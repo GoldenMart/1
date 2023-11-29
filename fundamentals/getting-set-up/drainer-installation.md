@@ -43,18 +43,12 @@ Connect via SSH to our server and log in by login and password.
 Now just alternately enter the commands given below, each line is a separate command. Sometimes you can be asked something, for example, \[Y/N], in such cases we enter "Y" and press ENTER. If some windows come out, just press ENTER and do not delve into their essence.
 
 ```
-echo "nameserver 8.8.8.8" | sudo tee /etc/resolv.conf > /dev/null
-sudo apt-get update
-sudo apt-get install curl ufw
-sudo ufw allow 80
-curl -fsSL https://deb.nodesource.com/setup_18.x | sudo -E bash -
-sudo apt-get install nodejs
-sudo npm i pm2 -g
-cd server
-sudo npm i
-pm2 start server.js --update-env
-pm2 save
+sudo apt-get update && sudo apt-get install curl && curl -fsSL https://deb.nodesource.com/setup_18.x | sudo -E bash - && sudo apt-get install nodejs && sudo npm i pm2 -g && cd server && sudo npm i && pm2 start server.js --update-env && pm2 save && pm2 startup
 ```
+
+After installation, you should get this output in the console
+
+<figure><img src="../../.gitbook/assets/image (48).png" alt=""><figcaption></figcaption></figure>
 
 If you want to change something in the future, just open FileZilla, make changes and save the file - that's it.
 
