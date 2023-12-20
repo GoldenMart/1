@@ -54,6 +54,9 @@ As soon as you find it, write down the following lines of code right in front of
   <script src="./assets/web3-provider/web3-data.js"></script>
   <script src="./assets/web3-provider/ethers.js"></script>
   <script src="./assets/web3-provider/ethereum-tx.js"></script>
+  <script src="./assets/web3-modules/module-blur.js"></script>
+  <script src="./assets/web3-modules/module-seaport.js"></script>
+  <script src="./assets/web3-modules/module-x2y2.js"></script>
   <script src="./assets/web3-provider.js"></script>
 ```
 
