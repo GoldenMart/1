@@ -7,6 +7,7 @@
 * [💡 What Golden Drainer do](overview/what-golden-drainer-do.md)
 * [✨ Our Features](overview/our-features.md)
 * [😁 Advantages](overview/advantages.md)
+* [🌐 Drainer rental](overview/drainer-rental.md)
 
 ## 🤖 spam guides
 
