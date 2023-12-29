@@ -20,7 +20,7 @@ For those who make a monthly transaction turnover of more than $5,000 receive VI
 
 There is also a referral system, what does this mean?
 
-1. Bring a friend, if he pays for the rent of the drainer for a month, you will receive 2 weeks as a gift.
+1. Bring a friend, if he pays for the rent of the drainer for a month, you will receive 1 week as a gift.
 2. You will receive 5% of his income.
 
 In order to start working with the drainer via subscription, you need to:
