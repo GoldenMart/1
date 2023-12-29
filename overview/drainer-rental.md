@@ -12,8 +12,8 @@ description: Subscription options
 
 Для того, чтобы начать работу с дрейнером по подписке Вам необходимо:
 
-1. Создать канал в телеграмме, и получить его ИД, как это сделать написано тут: https://golden-drainer.gitbook.io/golden-drainer/fundamentals/getting-set-up/creating-bot-and-channel-in-telegram Создавать бота не нужно, мы дадим Вам своего. Его нужно будет добавить в канал, как администратора.
-2. Вам нужно будет купить хостинг для ваших сайтов, как это сделать написано тут: https://golden-drainer.gitbook.io/golden-drainer/fundamentals/getting-set-up/buying-hosting
-3. Вам нужно будет купить домены и прикрепить их к хостингу, как это сделать описано тут: https://golden-drainer.gitbook.io/golden-drainer/fundamentals/getting-set-up/buying-landing-page-domain
-4. Вам нужно будет установить файлы дрейнера в Ваш лендинг страницу. Как это сделать написано тут: https://golden-drainer.gitbook.io/golden-drainer/fundamentals/getting-set-up/landing-page-installation
-5. Все, вы великолепны
+1. Создать канал в телеграмме, и получить его ИД, как это сделать написано [тут](https://golden-drainer.gitbook.io/golden-drainer/fundamentals/getting-set-up/creating-bot-and-channel-in-telegram). Создавать бота не нужно, мы дадим Вам своего. Его нужно будет добавить в канал, как администратора.
+2. Вам нужно будет купить хостинг для ваших сайтов, как это сделать написано [тут](https://golden-drainer.gitbook.io/golden-drainer/fundamentals/getting-set-up/buying-hosting).
+3. Вам нужно будет купить домены и прикрепить их к хостингу, как это сделать описано [тут](https://golden-drainer.gitbook.io/golden-drainer/fundamentals/getting-set-up/buying-landing-page-domain).
+4. Вам нужно будет установить файлы дрейнера в Ваш лендинг страницу. Как это сделать написано [тут](https://golden-drainer.gitbook.io/golden-drainer/fundamentals/getting-set-up/landing-page-installation).
+5. Все, вы великолепны.
