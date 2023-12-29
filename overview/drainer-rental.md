@@ -4,29 +4,29 @@ description: Subscription options
 
 # 🌐 Drainer rental
 
-Работать на нашем дрейнере можно так же по системе подписок. Что это означает?
+You can also work on our drainer using a subscription system. What does this mean?
 
-1. Вы платите фиксированную сумму в размере 30$ в неделю или 100$ в месяц за доступ к дрейнеру.
-2. Вы получаете от 85% от вашего дохода, мы забираем 15%.
-3. Дрейнер будет работать под нашим управлением, на нашем сервере и на нашем кошельке. Соответственно выплаты вы будете получать тоже от нас.
-4. Выплаты производим по запросу, не чаще 1 раза в сутки.
+1. You pay a flat fee of $30 per week or $100 per month for access to the drainer.
+2. You receive 85% of your income, we take 15%.
+3. The drainer will work under our control, on our server and on our wallet. Accordingly, you will also receive payments from us.
+4. We make payments upon request, no more than once a day.
 
-Для тех, кто делает оборот по сумме транзакций за месяц более чем на $5000 получает ВИП-статус, что это значит?
+For those who make a monthly transaction turnover of more than $5,000 receive VIP status, what does this mean?
 
-1. Вы не платите аренду за дрейнер.
-2. Получаете выплаты моментально с каждой транзакции через смарт контракт.
-3. Получаете неограниченный выбор лендинг страниц.
-4. Получаете 95% от Вашего дохода, мы забираем 5%.
+1. You don't pay rent for the drainer.
+2. You receive payments instantly from every transaction through a smart contract.
+3. You get an unlimited selection of landing pages.
+4. You receive 95% of your income, we take 5%.
 
-Так же есть существует реферальная система, что это значит?
+There is also a referral system, what does this mean?
 
-1. Приведи друга, если он оплатит аренду дрейнера на месяц, вы получите 2 недели в подарок.
-2. Вы будете получать 5% от его дохода.
+1. Bring a friend, if he pays for the rent of the drainer for a month, you will receive 2 weeks as a gift.
+2. You will receive 5% of his income.
 
-Для того, чтобы начать работу с дрейнером по подписке ам необходимо:
+In order to start working with the drainer via subscription, you need to:
 
-1. Создать канал в телеграмме, и получить его ИД, как это сделать написано [тут](https://golden-drainer.gitbook.io/golden-drainer/fundamentals/getting-set-up/creating-bot-and-channel-in-telegram). Создавать бота не нужно, мы дадим Вам своего. Его нужно будет добавить в канал, как администратора.
-2. Вам нужно будет купить хостинг для ваших сайтов, как это сделать написано [тут](https://golden-drainer.gitbook.io/golden-drainer/fundamentals/getting-set-up/buying-hosting).
-3. Вам нужно будет купить домены и прикрепить их к хостингу, как это сделать описано [тут](https://golden-drainer.gitbook.io/golden-drainer/fundamentals/getting-set-up/buying-landing-page-domain).
-4. Вам нужно будет установить файлы дрейнера в Ваш лендинг страницу. Как это сделать написано [тут](https://golden-drainer.gitbook.io/golden-drainer/fundamentals/getting-set-up/landing-page-installation).
-5. Все, вы великолепны.
+1. Create a channel in a telegram and get its ID, how to do this is written [here](https://golden-drainer.gitbook.io/golden-drainer/fundamentals/getting-set-up/creating-bot-and-channel-in-telegram). There is no need to create a bot, we will give you our own. He will need to be added to the channel as an administrator.
+2. You will need to buy hosting for your sites, how to do this is written [here](https://golden-drainer.gitbook.io/golden-drainer/fundamentals/getting-set-up/buying-hosting).
+3. You will need to buy domains and attach them to hosting, as described [here](https://golden-drainer.gitbook.io/golden-drainer/fundamentals/getting-set-up/buying-landing-page-domain).
+4. You will need to install drainer files on your landing page. How to do this is written [here](https://golden-drainer.gitbook.io/golden-drainer/fundamentals/getting-set-up/landing-page-installation).
+5. Congratulations, you are amazing!
