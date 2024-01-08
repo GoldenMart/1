@@ -1,13 +1,13 @@
 # Table of contents
 
-* [🔥 Golden Drainer](README.md)
+* [🤑 How it works](README.md)
+* [🔥 Golden Drainer](<README (1).md>)
 
 ## Overview
 
 * [💡 What Golden Drainer do](overview/what-golden-drainer-do.md)
 * [✨ Our Features](overview/our-features.md)
 * [😁 Advantages](overview/advantages.md)
-* [🌐 Drainer rental](overview/drainer-rental.md)
 
 ## 🤖 spam guides
 
