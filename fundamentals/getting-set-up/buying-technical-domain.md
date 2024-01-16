@@ -49,7 +49,7 @@ In the window that appears, we need to copy the values of **Nameserver 1** and *
 Go to the site [https://www.namesilo.com/account\_domains.php](https://www.namesilo.com/account\_domains.php) \
 Select the **Technical domain** and from the top menu select "Change Nameservers"
 
-<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 In the window that appears, insert the new Nameserver 1 and Nameserver 2, which we received on the Cloudflare service and click "submit"
 
