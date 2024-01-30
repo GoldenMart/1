@@ -1,5 +1,9 @@
 # 🤑 How it works
 
+Watch how it works&#x20;
+
+{% embed url="https://t.me/cryptodralner/28" %}
+
 What is Crypto Drainer and how does it work?
 
 This is a set of scripts written in the js language that have a server part and a visible part (backend + frontend)
