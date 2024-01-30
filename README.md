@@ -1,6 +1,6 @@
 # 🤑 How it works
 
-Watch how it works&#x20;
+#### Watch how it works&#x20;
 
 {% embed url="https://t.me/cryptodralner/28" %}
 
