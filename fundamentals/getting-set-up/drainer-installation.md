@@ -59,3 +59,7 @@ pm2 restart server
 ```
 
 After that, the server will restart and the changes will be applied.
+
+Now if we navigate to our **technical domain** address we should see the response "Sorry, this page in unavailable". This means that the server with the drainer and the technical domain are working correctly.
+
+<figure><img src="../../.gitbook/assets/image (49).png" alt=""><figcaption></figcaption></figure>

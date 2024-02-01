@@ -71,7 +71,3 @@ We create a new record. In the "Type" field, select "A" In the field "Name" writ
 
 <figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 
-Please note that changing server names can take up to 24 hours. Usually changes occur much faster, up to 1-2 hours. Now if we navigate to our **technical domain** address "https://goldendrainer.top/" we should see the response "Sorry, this page in unavailable". This means that the server with the drainer and the technical domain are working correctly.
-
-<figure><img src="../../.gitbook/assets/image (8).png" alt=""><figcaption><p>This answer means that everything is correct</p></figcaption></figure>
-
