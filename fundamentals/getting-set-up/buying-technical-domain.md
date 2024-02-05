@@ -67,7 +67,7 @@ Go to the "DNS - Records" section and click "Add Record"
 
 <figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 
-We create a new record. In the "Type" field, select "A" In the field "Name" write "@" In the "IPv4 address" field, write the IP address of the server that we bought on the [https://cp.zomro.com/services/vps](https://cp.zomro.com/services/vps) website and click save.
+Create a new record. In the "Type" field select "A" In the "Name" field write "@" In the "IPv4 address" field write the IP address of the VPS server we bought earlier
 
 <figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 
