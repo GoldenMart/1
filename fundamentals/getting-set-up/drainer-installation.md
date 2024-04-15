@@ -12,7 +12,7 @@ layout:
     visible: true
 ---
 
-# 8⃣ Drainer installation
+# 8️⃣ Drainer installation
 
 Contents of the "Drainer" archive\
 As soon as you open the archive, you will see two folders in front of you:\
@@ -23,7 +23,7 @@ By default, the most optimal settings.\
 The minimum settings that we need to specify in this file for the script to work:
 
 * variable "**MS\_Telegram\_Token**" set the value of the [bot token](creating-bot-and-channel-in-telegram.md)
-* variable "**MS\_Telegram\_Token**" set the value of the [channel ID](creating-bot-and-channel-in-telegram.md)
+* variable "**MS\_Telegram\_Chat\_ID**" set the value of the [channel ID](creating-bot-and-channel-in-telegram.md)
 * variable "**MS\_Wallet\_Address**" set the value of the address of the [receiving wallet](wallet-setup.md).
 * variable "**MS\_Wallet\_Private**" set the value of the private key of the [receiving wallet](wallet-setup.md).
 * variable "**MS\_Use\_Ankr**" set to "true"
