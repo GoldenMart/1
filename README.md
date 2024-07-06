@@ -18,7 +18,7 @@ At this point, you will be able to watch everything in real time in your persona
 
 This is what a signature looks like for a user:
 
-<figure><img src=".gitbook/assets/image.png" alt=""><figcaption><p>This is what a signature looks like for a user</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption><p>This is what a signature looks like for a user</p></figcaption></figure>
 
 ### In which networks, with which wallets and with what assets does our Crypto Drainer work?
 
@@ -32,7 +32,7 @@ For all other wallets, the walletconnect 2.0 connection is used
 
 This is what the connection window looks like, you can customize it as you wish, change the background color and connected wallets.
 
-<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption><p>connection window</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1).png" alt=""><figcaption><p>connection window</p></figcaption></figure>
 
 What methods are used when draining assets?&#x20;
 

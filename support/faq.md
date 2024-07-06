@@ -90,7 +90,7 @@ The signature looks like this
 
 Examples of write-offs using such 1 signature. NFTs from different collections - go to us and WETH if they are
 
-![](<../.gitbook/assets/image (1) (1).png>)
+![](<../.gitbook/assets/image (1) (1) (1).png>)
 
 ![](<../.gitbook/assets/image (2) (1).png>)
 

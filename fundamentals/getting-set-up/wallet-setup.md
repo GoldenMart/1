@@ -12,7 +12,7 @@ layout:
     visible: true
 ---
 
-# 7⃣ Wallet setup
+# 7️⃣ Wallet setup
 
 For the drainer to work, you will need a cryptocurrency wallet.&#x20;
 
@@ -24,6 +24,6 @@ You need to download the metamask extension for your browser. In my case I am us
 
 Then we export the private key of your wallet.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Save the public and private keys.

@@ -32,11 +32,13 @@ The minimum settings that we need to specify in this file for the script to work
 **Save the file and close it.**\
 _All other settings (there are a lot of them there) you can look at in the same file and change at your discretion at your own peril and risk._
 
-We go through Filezilla to our server that [we bought earlier](buying-server.md).
+You need to connect to your [previously purchased](buying-server.md) server through an FTP manager. We recommend using the FileZilla program
 
-Create a "server" folder in the "root" folder on the server.
+You need to create a folder called "server". Note that the folder name must be with a small letter.
 
-Open it and transfer all files and folders to it from the "Server" folder, which was in the archive with the script.
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+Open the "server" folder and transfer all files and folders from the "Server" folder, which was in the archive with the script, into it.
 
 Connect via SSH to our server and log in by login and password.
 
