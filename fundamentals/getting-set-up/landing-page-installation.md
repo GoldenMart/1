@@ -12,7 +12,7 @@ layout:
     visible: true
 ---
 
-# 9⃣ Landing page installation
+# 9️⃣ Landing page installation
 
 [In this section](buying-landing-page-domain.md) we bought [**Landing page domain**](buying-landing-page-domain.md), now we need to install the landing page on the hosting.
 
@@ -22,7 +22,7 @@ You need to host site files in cPanel:
 2. In the "Domains" section, select Domains:
 3. Click on the root folder of your site to go to the root directory:
 4. Delete all files contained in the root folder, except for the cgi-bin directory.
-5. Click the "**Download**" button
+5. Click the "**Upload**" button
 6. Select and upload the archive with your website files. Attention: cPanel hosting control panel only supports archives in formats: **zip**, **gzip**, **bzip** and **tar**.
 7. Select the archive and click "**Extract**":
 8. Enter the path to the directory where you want to extract the files. Then click the "**Extract Files**" button
