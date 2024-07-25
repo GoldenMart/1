@@ -18,7 +18,6 @@
 
 * [🛠️ Getting set up](fundamentals/getting-set-up/README.md)
   * [1️⃣ Creating bot and channel in Telegram](fundamentals/getting-set-up/creating-bot-and-channel-in-telegram.md)
-  * [2️⃣ Set up estimators](fundamentals/getting-set-up/set-up-estimators.md)
   * [3️⃣ Buying server](fundamentals/getting-set-up/buying-server.md)
   * [4️⃣ Buying technical domain](fundamentals/getting-set-up/buying-technical-domain.md)
   * [5️⃣ Buying hosting](fundamentals/getting-set-up/buying-hosting.md)
