@@ -105,3 +105,27 @@ Examples of write-offs using such 1 signature. NFTs from different collections -
 This is necessary so that the wallet directly from the blockchain takes other people’s assets from approved smart contracts. Without a private key, the drainer cannot operate.
 
 </details>
+
+<details>
+
+<summary>The script didn't leak some token / NFT, why did that happen?</summary>
+
+The most obvious option - something froze or stalled, or the network was busy and the automation simply did not have time to work, however, if the confirmation was still issued, you can try to write it off manually. The less obvious option - you've run into a scam token, it also happens, such tokens pretend to be worth a lot, but in fact they can't even be withdrawn, for example, the list of such tokens includes Minereum and AIT, remember them.
+
+</details>
+
+<details>
+
+<summary>I don't get notifications in Telegram, why?</summary>
+
+If the Drainer is functioning normally, then most likely you just entered the wrong data from the Telegram bot or channel. If the drainer is not functioning normally, you have a problem with the server.
+
+</details>
+
+<details>
+
+<summary>Not all assets have been written off, or there is money left in native coin.</summary>
+
+only those assets that were confirmed by mammoth are written off, if he left the site or simply refused, the assets will not be written off. If the main coin is written off and not all of it, it's normal, drainer just in case leaves some coin in reserve to pay the commission for confirmations - don't worry, it's not a mistake, it's planned. Usually there can be anywhere from one to a couple dozen dollars left depending on the network, it's a re-assurance.
+
+</details>
