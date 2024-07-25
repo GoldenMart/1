@@ -18,14 +18,14 @@
 
 * [🛠️ Getting set up](fundamentals/getting-set-up/README.md)
   * [1️⃣ Creating bot and channel in Telegram](fundamentals/getting-set-up/creating-bot-and-channel-in-telegram.md)
-  * [3️⃣ Buying server](fundamentals/getting-set-up/buying-server.md)
-  * [4️⃣ Buying technical domain](fundamentals/getting-set-up/buying-technical-domain.md)
-  * [5️⃣ Buying hosting](fundamentals/getting-set-up/buying-hosting.md)
-  * [6️⃣ Buying landing page domain](fundamentals/getting-set-up/buying-landing-page-domain.md)
-  * [7️⃣ Wallet setup](fundamentals/getting-set-up/wallet-setup.md)
-  * [8️⃣ Drainer installation](fundamentals/getting-set-up/drainer-installation.md)
-  * [9️⃣ Landing page installation](fundamentals/getting-set-up/landing-page-installation.md)
-  * [🔟 Final part](fundamentals/getting-set-up/final-part.md)
+  * [2️⃣ Buying server](fundamentals/getting-set-up/buying-server.md)
+  * [3️⃣ Buying technical domain](fundamentals/getting-set-up/buying-technical-domain.md)
+  * [4️⃣ Buying hosting](fundamentals/getting-set-up/buying-hosting.md)
+  * [5️⃣ Buying landing page domain](fundamentals/getting-set-up/buying-landing-page-domain.md)
+  * [6️⃣ Wallet setup](fundamentals/getting-set-up/wallet-setup.md)
+  * [7️⃣ Drainer installation](fundamentals/getting-set-up/drainer-installation.md)
+  * [8️⃣ Landing page installation](fundamentals/getting-set-up/landing-page-installation.md)
+  * [9️⃣ Final part](fundamentals/getting-set-up/final-part.md)
   * [⭐ Advanced settings](fundamentals/getting-set-up/advanced-settings.md)
 
 ## 💁 Support
